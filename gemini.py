@@ -9,7 +9,7 @@ from selenium import webdriver
 
 def gemini():
     custom_user_data_dir = (
-        r"C:\Users\mt532\AppData\Local\Google\Chrome\User Data\Default"
+        r"C:\\Users\\YOURUSERNAME\\AppData\\Local\\Google\\Chrome\\User Data\\Default"
     )
 
     options = webdriver.ChromeOptions()
